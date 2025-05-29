@@ -316,12 +316,30 @@ my_lab/
 │   │   │   ├── problem.go
 │   │   │   ├── solution.go
 │   │   │   └── solution_test.go
-│   │   ├── barrier/...
-│   │   ├── cas/...
-│   │   ├── deadlock/...
-│   │   ├── locker/...
-│   │   ├── mutex/...
-│   │   └── queue/...
+│   │   ├── barrier/
+│   │   │   ├── problem.go
+│   │   │   ├── solution.go
+│   │   │   └── solution_test.go
+│   │   ├── cas/
+│   │   │   ├── problem.go
+│   │   │   ├── solution.go
+│   │   │   └── solution_test.go
+│   │   ├── deadlock/
+│   │   │   ├── problem.go
+│   │   │   ├── solution.go
+│   │   │   └── solution_test.go
+│   │   ├── locker/
+│   │   │   ├── problem.go
+│   │   │   ├── solution.go
+│   │   │   └── solution_test.go
+│   │   ├── mutex/
+│   │   │   ├── problem.go
+│   │   │   ├── solution.go
+│   │   │   └── solution_test.go
+│   │   └── queue/
+│   │       ├── problem.go
+│   │       ├── solution.go
+│   │       └── solution_test.go
 │   └── tasks/
 │       ├── tasks.md
 │       ├── task1/
